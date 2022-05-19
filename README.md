@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arthur Pahon</h1>
-<h3 align="center">I'm an Epitech student in Lyon</h3><br>
+<h3 align="center">I'm an Epitech student in Lyon</h3>
 
 - 🌱 I’m currently learning **Swift**
 

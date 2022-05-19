@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Arthur Pahon</h1>
 <h3 align="center">I'm an Epitech student in Lyon</h3><br>
 
-<h1 align="center">💫 About Me :</h1>
-
 - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **arthur.pahon@epitech.eu**<br>

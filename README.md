@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 📫 How to reach me **arthur.pahon@epitech.eu**<br>
+- 📫 How to reach me **arthur.pahon@epitech.eu**<br><br>
 
 ## 🌐 Socials
 

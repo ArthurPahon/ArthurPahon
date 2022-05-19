@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Arthur Pahon</h1>
 <h3 align="center">I'm an Epitech student in Lyon</h3>
 
-- 📫 How to reach me **arthur.pahon@epitech.eu**<br>
-
----
-# Tech Skills
+# Tech skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,3 +38,5 @@
 
 # Support me
 <p><a href="https://www.buymeacoffee.com/arthurpahon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arthurpahon" /></a><a href="https://ko-fi.com/arthurpahon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arthurpahon" /></a></p>
+
+- 📫 How to reach me **arthur.pahon@epitech.eu**

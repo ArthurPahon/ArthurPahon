@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 📫 How to reach me **arthur.pahon@epitech.eu**<br><br>
+- 📫 How to reach me **arthur.pahon@epitech.eu**<br>
 
 <a href="https://www.linkedin.com/in/arthur-pahon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

@@ -5,13 +5,6 @@
 
 - 📫 How to reach me **arthur.pahon@epitech.eu**<br>
 
-<a href="https://www.linkedin.com/in/arthur-pahon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://twitter.com/arthurphn">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a><br>
-
 ---
 <h1 align="center">💻 Tech :</h1>
 

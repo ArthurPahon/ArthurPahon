@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurpahon&show_icons=true&locale=en" alt="arthurpahon" /></p><br>
+![](https://github-readme-stats.vercel.app/api?username=ArthurPahon&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
 # ☕ Support me
 

@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurpahon&show_icons=true&locale=en" alt="arthurpahon" /></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">☕ Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/arthurpahon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arthurpahon" /></a><a href="https://ko-fi.com/arthurpahon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arthurpahon" /></a></p><br><br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Arthur&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)

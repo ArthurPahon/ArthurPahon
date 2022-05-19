@@ -22,4 +22,4 @@
 
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurpahon&show_icons=true&locale=en" alt="arthurpahon" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=LayBraid&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Arthur&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)

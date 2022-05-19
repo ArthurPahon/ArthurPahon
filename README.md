@@ -4,7 +4,7 @@
 - 📫 How to reach me **arthur.pahon@epitech.eu**<br>
 
 ---
-<h1 align="center">Tech :</h1>
+# Tech
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,10 +33,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)<br>
 
-<h1 align="center">GitHub Stats :</h1>
-
+# Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=ArthurPahon&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
-<h1 align="center">Support me :</h1>
-
+# Support me
 <p><a href="https://www.buymeacoffee.com/arthurpahon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arthurpahon" /></a><a href="https://ko-fi.com/arthurpahon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arthurpahon" /></a></p>

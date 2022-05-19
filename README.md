@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthur Pahon</h1>
 <h3 align="center">I'm an Epitech student in Lyon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurpahon&label=Profile%20views&color=0e75b6&style=flat" alt="arthurpahon" /> </p>
-
 <p align="left"> <a href="https://twitter.com/arthurphn" target="blank"><img src="https://img.shields.io/twitter/follow/arthurphn?logo=twitter&style=for-the-badge" alt="arthurphn" /></a> </p>
 
 # 💫 About Me :
@@ -25,3 +23,5 @@
 <p><a href="https://www.buymeacoffee.com/arthurpahon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arthurpahon" /></a><a href="https://ko-fi.com/arthurpahon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arthurpahon" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurpahon&show_icons=true&locale=en" alt="arthurpahon" /></p>
+
+

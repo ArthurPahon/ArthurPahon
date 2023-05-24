@@ -21,4 +21,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Contact
-![Outlook](https://img.shields.io/badge/arthur.pahon@epitech.eu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Outlook](https://img.shields.io/badge/apahondev@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
